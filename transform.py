@@ -1,7 +1,6 @@
 """
 Created on Mon Aug 22 19:51:38 2016
-
-@author: fs, copied from another source and modified
+based on https://gist.github.com/vinu76jsr/8594481
 """
 
 import os
@@ -36,3 +35,4 @@ def transform():
 
 if __name__ == "__main__":
     transform()
+
